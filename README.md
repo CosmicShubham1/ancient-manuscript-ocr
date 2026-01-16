@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 Due to GitHub's file size limits, download the trained model from:
 - [Google Drive Link](#) *(https://drive.google.com/drive/folders/1edvZkuQeMQ4epLJVml5yI86IE9KOI2gz?usp=sharing)*
-- [Hugging Face Model Hub](#) *(Optional)*
+
 
 Place the model file in the `models/` directory.
 
@@ -77,11 +77,11 @@ print(f"Recognized Text: {text}")
 
 ### Sample Predictions
 
-![Sample Predictions](https://drive.google.com/file/d/1fKEkWgo7BG8XGVBkMVBdDwie-YhPU5O-/view?usp=sharing)
+![Sample Predictions](plots/sample_predictions.png)
 
 ### Training History
 
-![Training History](https://drive.google.com/file/d/1JBOe7Zga0yQ3s9TEEDPjtL2V5ynAV1oh/view?usp=sharing)
+![Training History](plots/training_history.png)
 
 ## 🛠️ Technical Details
 
@@ -126,18 +126,18 @@ ancient-manuscript-ocr/
 
 Comprehensive evaluation across different manuscript categories:
 
-![Category Performance](https://drive.google.com/file/d/1sui9RAm1HEBeqo3CPdGK8_nXwqIdQ_v9/view?usp=sharing)
+![Category Performance](plots/category_performance.png)
 
-See [MODEL_CARD.md](https://drive.google.com/file/d/1EaPaai976DzNREG53vLeSyz1v2E5Lq7t/view?usp=sharing) for detailed evaluation metrics.
+See [MODEL_CARD.md](MODEL_CARD.md) for detailed evaluation metrics.
 
 ## 📝 Citation
 
 If you use this work, please cite:
 ```bibtex
-@misc{manuscript-ocr-2025,
+@misc{manuscript-ocr-2026,
   author = {Shubham Kumar},
   title = {Ancient Manuscript OCR using CRNN},
-  year = {2025},
+  year = {2026},
   publisher = {GitHub},
   url = {https://github.com/CosmicShubham1/ancient-manuscript-ocr}
 }
