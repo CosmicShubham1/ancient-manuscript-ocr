@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### Download Pre-trained Model
 
 Due to GitHub's file size limits, download the trained model from:
-- [Google Drive Link](#) *(Add your link)*
+- [Google Drive Link](#) *(https://drive.google.com/drive/folders/1edvZkuQeMQ4epLJVml5yI86IE9KOI2gz?usp=sharing)*
 - [Hugging Face Model Hub](#) *(Optional)*
 
 Place the model file in the `models/` directory.
@@ -135,7 +135,7 @@ See [MODEL_CARD.md](MODEL_CARD.md) for detailed evaluation metrics.
 If you use this work, please cite:
 ```bibtex
 @misc{manuscript-ocr-2025,
-  author = {Shubham Patel},
+  author = {Shubham Kumar},
   title = {Ancient Manuscript OCR using CRNN},
   year = {2025},
   publisher = {GitHub},
@@ -156,9 +156,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Shubham Patel**
+**Shubham Kumar**
 - GitHub: [@CosmicShubham1](https://github.com/CosmicShubham1)
-- LinkedIn: [Add your LinkedIn](#)
+- LinkedIn: [Shubham Kumar](https://www.linkedin.com/in/cosmicshubham)
 
 ---
 
