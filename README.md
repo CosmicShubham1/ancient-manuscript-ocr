@@ -77,11 +77,11 @@ print(f"Recognized Text: {text}")
 
 ### Sample Predictions
 
-![Sample Predictions](plots/sample_predictions.png)
+![Sample Predictions](https://drive.google.com/file/d/1fKEkWgo7BG8XGVBkMVBdDwie-YhPU5O-/view?usp=sharing)
 
 ### Training History
 
-![Training History](plots/training_history.png)
+![Training History](https://drive.google.com/file/d/1JBOe7Zga0yQ3s9TEEDPjtL2V5ynAV1oh/view?usp=sharing)
 
 ## 🛠️ Technical Details
 
@@ -126,9 +126,9 @@ ancient-manuscript-ocr/
 
 Comprehensive evaluation across different manuscript categories:
 
-![Category Performance](plots/category_performance.png)
+![Category Performance](https://drive.google.com/file/d/1sui9RAm1HEBeqo3CPdGK8_nXwqIdQ_v9/view?usp=sharing)
 
-See [MODEL_CARD.md](MODEL_CARD.md) for detailed evaluation metrics.
+See [MODEL_CARD.md](https://drive.google.com/file/d/1EaPaai976DzNREG53vLeSyz1v2E5Lq7t/view?usp=sharing) for detailed evaluation metrics.
 
 ## 📝 Citation
 
